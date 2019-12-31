@@ -16,10 +16,10 @@ with 3 levels of authorization Role : Admin, Editor, Normal.
 0- cd in the project folder
 1- > composer install
 2- > php artisan migrate fresh 
-    or import the db dump file, pre defiend users:
-    email: admin@test.test password: 123123123
-    email: editor@test.test password: 123123123
-    email: normal@test.test password: 123123123
+    or import the db dump file, pre defiend users: 
+    email: admin@test.test password: 123123123 
+    email: editor@test.test password: 123123123 
+    email: normal@test.test password: 123123123 
 3- php artisan serve
 
 ## License
