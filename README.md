@@ -18,6 +18,7 @@ with 3 levels of authorization Role : Admin, Editor, Normal.
 1- > composer install
 
 2- > php artisan migrate fresh 
+
     or import the db dump file, pre defiend users: 
 
     - email: admin@test.test password: 123123123 
